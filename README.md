@@ -1,0 +1,3 @@
+# hacakathon-SIT-Aston
+
+The "Natural Disaster Sentiment Analysis" project aims to analyze the sentiment surrounding three specific natural disasters: Sandy, Floods, and Blizzards. By leveraging a carefully curated dataset, including social media posts, news articles, and public comments, the project seeks to uncover valuable insights into the emotional impact and sentiment expressed by individuals and communities affected by these events. Through sentiment analysis techniques, the project strives to categorize sentiments as positive, negative, or neutral, providing crucial information for decision-making, resource allocation, and disaster response strategies.
